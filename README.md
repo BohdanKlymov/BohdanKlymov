@@ -44,7 +44,11 @@ Software Development: Object-Oriented Programming (OOP), problem-solving
 
 # What I Do
 Application Development: Learning and developing my skills in functions, programming, and object-oriented programming (OOP) with Python
+
 Mobile Development: Creating Android apps with Kotlin and Jetpack Compose, using Room for data persistence
+
 Learning by Doing: Constantly expanding my knowledge through projects, internships, and practical experience
+
 Problem Solving: Developing solutions step by step, with a focus on clean code and functionality
+
 Personal Growth: Continuous improvement of my language skills in English as well as strengthening my self-discipline
