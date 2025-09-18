@@ -16,10 +16,7 @@ Software Development: Object-Oriented Programming (OOP), problem-solving
   </a> 
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
-  </a> 
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
+  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
@@ -31,6 +28,9 @@ Software Development: Object-Oriented Programming (OOP), problem-solving
   </a> 
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="40" height="40"/> 
+  </a> 
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
   </a> 
   <a href="https://github.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
