@@ -5,9 +5,13 @@
 
 # Skills
 Programming Languages: Python, Kotlin, C#
+
 Mobile Development: Android Studio (Kotlin, Jetpack Compose), with database Room, 
+
 Databases: SQL, Room
+
 Development Tools & Technologies: Git, GitHub, Visual Studio Code, Android Studio, IntelliJ IDEA
+
 Software Development: Object-Oriented Programming (OOP), problem-solving
 
 <h3 align="left">Languages and Tools:</h3>
