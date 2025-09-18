@@ -1,6 +1,7 @@
 ## 👋 Hi there and welcome to my profile!
 
-### My name is Bohdan Klymov, and I am an aspiring Application Developer with a strong passion for software development and modern technologies. I enjoy turning ideas into working solutions and continuously improving my skills through projects, internships, and self-learning. Over the past years, I have gained practical experience in application development through several internships, where I worked with programming languages and tools to build real-world solutions.
+### My name is Bohdan Klymov, and I am an aspiring Application Developer with a strong passion for software development and modern technologies. I enjoy turning ideas into working solutions and continuously improving my skills through projects, internships, and self-learning. 
+# Over the past years, I have gained practical experience in application development through several internships, where I worked with programming languages and tools to build real-world solutions.
 
 # Skills
 Programming Languages: Python, Kotlin, C#
