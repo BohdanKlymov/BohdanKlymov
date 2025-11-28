@@ -6,16 +6,13 @@ I'm a passionate developer who transforms ideas into real, working solutions. I 
 I learn by creating — through projects, internships, continuous self-improvement, and I will start my vocational training (Ausbildung) in 2026.
 
 ## Skills & Technologies
+
 ### Programming Languages
 
-Python
-
-Java
-
-Kotlin
-
-C#
-
+Python, 
+Java, 
+Kotlin, 
+C#, 
 JavaScript
 
 ### Web Development
@@ -28,33 +25,24 @@ Full-stack development of real-world web applications
 
 ### Databases
 
-SQLite
-
-SQL
-
+SQLite, 
+MySQL, 
 Room
-
-(Experience with MySQL basics)
 
 ### Mobile Development
 
-Android Studio
-
-Kotlin
-
-Jetpack Compose
-
+Android Studio, 
+Kotlin, 
+Jetpack Compose, 
 Room Database
 
 ### Tools & Technologies
 
+Visual Studio Code, 
+IntelliJ IDEA, 
+Android Studio 
+
 Git & GitHub
-
-Visual Studio Code
-
-IntelliJ IDEA
-
-Android Studio
 
 Object-Oriented Programming (OOP)
 
@@ -83,6 +71,7 @@ Clean code & problem-solving mindset
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/></a>
 
 </p>
+
 ## What I Do
 
 ### Backend Development
@@ -104,7 +93,5 @@ Building modern Android apps using Jetpack Compose and Room.
 ### Learning & Growth
 
 Constantly improving my backend development skills
-
 Practicing clean code, architecture, and debugging
-
 Improving English communication and personal discipline
