@@ -1,89 +1,110 @@
-## 👋 Hi there and welcome to my profile!
+# 👋 Hi there! I'm Bohdan Klymov
+## Aspiring Backend Developer | Application & Web Developer | Android Developer
 
-### My name is Bohdan Klymov, and I am an aspiring Application Developer with a strong passion for software development and modern technologies. I enjoy turning ideas into working solutions and continuously improving my skills through projects, internships, and self-learning. 
-### Over the past years, I have gained practical experience in application development through several internships, where I worked with programming languages and tools to build real-world solutions.
+I'm a passionate developer who transforms ideas into real, working solutions. I started my journey with application development, and over time I expanded into creating modern, responsive websites. Today, I focus on growing into a professional backend developer, while still building mobile apps and polished frontend interfaces.
 
-# Skills
-Programming Languages: Python, Kotlin, C#, JavaScript
+I learn by creating — through projects, internships, continuous self-improvement, and I will start my vocational training (Ausbildung) in 2026.
 
-Web Development: Flask, Django, HTML, CSS
+## Skills & Technologies
+### Programming Languages
 
-Databases: SQLite, SQL, Room
+Python
 
-Mobile Development: Android Studio (Kotlin, Jetpack Compose, Room)
+Java
 
-Development Tools & Technologies: Git, GitHub, Visual Studio Code, Android Studio, IntelliJ IDEA
+Kotlin
 
-Software Development: Object-Oriented Programming (OOP), problem-solving, clean code
+C#
 
-<h3 align="left">Languages and Tools:</h3> 
-<!-- Programming Languages -->
-<p align="left"> 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-</p>
+JavaScript
 
-<!-- Web Development -->
-<p align="left">
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> 
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
-  </a>
-</p>
+### Web Development
+
+Backend: Flask, Django
+
+Frontend: HTML, CSS, JavaScript
+
+Full-stack development of real-world web applications
+
+### Databases
+
+SQLite
+
+SQL
+
+Room
+
+(Experience with MySQL basics)
+
+### Mobile Development
+
+Android Studio
+
+Kotlin
+
+Jetpack Compose
+
+Room Database
+
+### Tools & Technologies
+
+Git & GitHub
+
+Visual Studio Code
+
+IntelliJ IDEA
+
+Android Studio
+
+Object-Oriented Programming (OOP)
+
+Clean code & problem-solving mindset
+
+## Languages and Tools
+
+<p align="left"> <!-- Programming --> <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a> <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a> <a href="https://kotlinlang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40"/></a> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a> <!-- Web -->
+
+<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40"/></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/></a>
 
 <!-- Databases -->
-<p align="left">
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
+
+<a href="https://www.sqlite.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
+
+<!-- Tools -->
+
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
+<a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
+<a href="https://developer.android.com/studio" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/></a>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/></a>
+
 </p>
+## What I Do
 
-<!-- Tools & Environments -->
-<p align="left"> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="40" height="40"/> 
-  </a>
-</p>
-  
-# What I Do
-Application Development: Learning and developing my skills in functions, programming, and object-oriented programming (OOP) with Python
+### Backend Development
 
-Web Development: Creating interactive web applications using Flask, Django, HTML, CSS, JavaScript, and SQLite
+Building backend systems with Python (Django, Flask), focusing on clean architecture, databases, and scalable solutions.
 
-Mobile Development: Building Android apps with Kotlin and Jetpack Compose
+### Web Development
 
-Learning by Doing: Expanding my knowledge through projects, internships, and practical experience
+Creating full-stack applications, responsive web interfaces, and interactive features.
 
-Problem Solving: Developing solutions step by step, focusing on clean and efficient code
+### Application Development
 
-Personal Growth: Continuously improving my English skills and self-discipline
+Designing and developing real applications in Python and Kotlin.
+
+### Mobile Development
+
+Building modern Android apps using Jetpack Compose and Room.
+
+### Learning & Growth
+
+Constantly improving my backend development skills
+
+Practicing clean code, architecture, and debugging
+
+Improving English communication and personal discipline
