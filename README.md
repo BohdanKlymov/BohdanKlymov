@@ -1,9 +1,9 @@
 # 👋 Hi there! I'm Bohdan Klymov
 ## Aspiring Backend Developer | Application & Web Developer | Android Developer
 
-I'm a passionate developer who transforms ideas into real, working solutions. I started my journey with application development, and over time I expanded into creating modern, responsive websites. Today, I focus on growing into a professional backend developer, while still building mobile apps and polished frontend interfaces.
+I’m a passionate developer who transforms ideas into real, working solutions. I started my journey with application development and gradually expanded into building modern, responsive websites. Today, I focus on growing into a professional backend developer, while still creating mobile apps and polished frontend interfaces.
 
-I learn by creating — through projects, internships, continuous self-improvement, and I will start my vocational training (Ausbildung) in 2026.
+I learn by creating — through projects, internships, and continuous self-improvement. In summer 2026, I will begin my three-year vocational training (Ausbildung) as a Fachinformatiker für Anwendungsentwicklung in Bielefeld, taking the next step toward a strong professional career in software development.
 
 ## Skills & Technologies
 
